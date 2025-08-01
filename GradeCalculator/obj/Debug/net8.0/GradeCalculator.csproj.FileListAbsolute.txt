@@ -1,0 +1,15 @@
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/GradeCalculator/bin/Debug/net8.0/GradeCalculator
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/GradeCalculator/bin/Debug/net8.0/GradeCalculator.deps.json
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/GradeCalculator/bin/Debug/net8.0/GradeCalculator.runtimeconfig.json
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/GradeCalculator/bin/Debug/net8.0/GradeCalculator.dll
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/GradeCalculator/bin/Debug/net8.0/GradeCalculator.pdb
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/GradeCalculator/obj/Debug/net8.0/GradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/GradeCalculator/obj/Debug/net8.0/GradeCalculator.AssemblyInfoInputs.cache
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/GradeCalculator/obj/Debug/net8.0/GradeCalculator.AssemblyInfo.cs
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/GradeCalculator/obj/Debug/net8.0/GradeCalculator.csproj.CoreCompileInputs.cache
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/GradeCalculator/obj/Debug/net8.0/GradeCalculator.sourcelink.json
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/GradeCalculator/obj/Debug/net8.0/GradeCalculator.dll
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/GradeCalculator/obj/Debug/net8.0/refint/GradeCalculator.dll
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/GradeCalculator/obj/Debug/net8.0/GradeCalculator.pdb
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/GradeCalculator/obj/Debug/net8.0/GradeCalculator.genruntimeconfig.cache
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/GradeCalculator/obj/Debug/net8.0/ref/GradeCalculator.dll
