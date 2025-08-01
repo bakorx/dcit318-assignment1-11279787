@@ -1,0 +1,15 @@
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.AssemblyInfoInputs.cache
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.AssemblyInfo.cs
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.csproj.CoreCompileInputs.cache
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.sourcelink.json
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TicketPriceCalculator/bin/Debug/net8.0/TicketPriceCalculator
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TicketPriceCalculator/bin/Debug/net8.0/TicketPriceCalculator.deps.json
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TicketPriceCalculator/bin/Debug/net8.0/TicketPriceCalculator.runtimeconfig.json
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TicketPriceCalculator/bin/Debug/net8.0/TicketPriceCalculator.dll
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TicketPriceCalculator/bin/Debug/net8.0/TicketPriceCalculator.pdb
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.dll
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TicketPriceCalculator/obj/Debug/net8.0/refint/TicketPriceCalculator.dll
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.pdb
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.genruntimeconfig.cache
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TicketPriceCalculator/obj/Debug/net8.0/ref/TicketPriceCalculator.dll
