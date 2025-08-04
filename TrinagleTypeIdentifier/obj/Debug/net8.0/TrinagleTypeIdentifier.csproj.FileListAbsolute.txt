@@ -1,0 +1,15 @@
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TrinagleTypeIdentifier/bin/Debug/net8.0/TrinagleTypeIdentifier
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TrinagleTypeIdentifier/bin/Debug/net8.0/TrinagleTypeIdentifier.deps.json
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TrinagleTypeIdentifier/bin/Debug/net8.0/TrinagleTypeIdentifier.runtimeconfig.json
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TrinagleTypeIdentifier/bin/Debug/net8.0/TrinagleTypeIdentifier.dll
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TrinagleTypeIdentifier/bin/Debug/net8.0/TrinagleTypeIdentifier.pdb
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TrinagleTypeIdentifier/obj/Debug/net8.0/TrinagleTypeIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TrinagleTypeIdentifier/obj/Debug/net8.0/TrinagleTypeIdentifier.AssemblyInfoInputs.cache
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TrinagleTypeIdentifier/obj/Debug/net8.0/TrinagleTypeIdentifier.AssemblyInfo.cs
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TrinagleTypeIdentifier/obj/Debug/net8.0/TrinagleTypeIdentifier.csproj.CoreCompileInputs.cache
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TrinagleTypeIdentifier/obj/Debug/net8.0/TrinagleTypeIdentifier.sourcelink.json
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TrinagleTypeIdentifier/obj/Debug/net8.0/TrinagleTypeIdentifier.dll
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TrinagleTypeIdentifier/obj/Debug/net8.0/refint/TrinagleTypeIdentifier.dll
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TrinagleTypeIdentifier/obj/Debug/net8.0/TrinagleTypeIdentifier.pdb
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TrinagleTypeIdentifier/obj/Debug/net8.0/TrinagleTypeIdentifier.genruntimeconfig.cache
+/home/bakor/Desktop/work/dcit318-assignment1-11279787/TrinagleTypeIdentifier/obj/Debug/net8.0/ref/TrinagleTypeIdentifier.dll
